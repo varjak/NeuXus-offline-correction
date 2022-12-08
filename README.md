@@ -1,4 +1,4 @@
-This is the version of NeuXus online EEG MR-artifact correction in simple python.
+This is offline version of the NeuXus online EEG MR-artifact correction:
 https://github.com/LaSEEB/NeuXus
 
 The output should be virtually the same as with the online version.
