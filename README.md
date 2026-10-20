@@ -1,7 +1,7 @@
 This is offline version of the NeuXus online EEG MR-artifact correction:
 https://github.com/LaSEEB/NeuXus
 
-My main contribution is the real-time algorithm present in file correct.py (in the online version, it is in: NeuXus/neuxus/nodes/correct.py).
+My main contribution is the real-time algorithm present in file correct.py (in the online version, it is in: [NeuXus/neuxus/nodes/correct.py](https://github.com/LaSEEB/NeuXus/blob/master/neuxus/nodes/correct.py)).
 
 The output should be virtually the same to the one from the online version.
 
