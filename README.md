@@ -1,3 +1,5 @@
+# NeuXus Offline Correction
+
 This is offline version of the NeuXus online EEG MR-artifact correction:
 https://github.com/LaSEEB/NeuXus
 
